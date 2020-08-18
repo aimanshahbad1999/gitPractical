@@ -1,6 +1,11 @@
 def add(a,b):
      c=a+b
-     print("Addition of two number: "+str(c))
+     if c>0:
+        print("Addition of two number: "+str(c))
+     else:
+        print("Addition of two number: "+str(abs(c)))
+         
+        
 
 def substract(a,b):
      c=a-b
