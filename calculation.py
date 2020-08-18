@@ -14,8 +14,8 @@ def multiply(a,b):
 
 
 
-No1=int(intput())
-No2=int(input())
+no1=int(intput())
+no2=int(input())
 
 add(no1,no2)
 substract(no1,no2)
