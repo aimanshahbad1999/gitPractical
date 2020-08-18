@@ -6,9 +6,11 @@ def substract(a,b):
      c=a-b
      print("Substraction of two number: "+str(c))
 
+
 def multiply(a,b):
      c=a*b
      print("Multiplication of two : "+str(c))
+
 
 
 
